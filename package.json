@@ -1,0 +1,16 @@
+{
+  "name": "Ping-Chart",
+  "version": "0.0.1",
+  "description": "Chart your",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ryan Christiani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "socket.io": "^1.2.1"
+  }
+}
